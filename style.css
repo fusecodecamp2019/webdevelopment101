@@ -22,3 +22,8 @@ html {
 .right-column {
 	float: right;
 }
+
+#nav {
+	display: flex;
+	justify-content: space-evenly;
+}
