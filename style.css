@@ -1,5 +1,7 @@
 html {
-	background: #fff2c1;
+	height: 100%;
+	width: 100%;
+	background: linear-gradient(#83b4ff, #fff476);
 	font-family: 'Saira', cursive;
 	font-size: 20px;
 	color: #003599;
