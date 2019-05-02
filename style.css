@@ -1,7 +1,7 @@
 html {
 	background: #fff2c1;
 	font-family: 'Saira', cursive;
-	font-size: 25px;
+	font-size: 20px;
 	color: #003599;
 }
 
@@ -9,3 +9,10 @@ html {
 	color: red;
 }
 
+.left-column {
+	float: left;
+}
+
+.right-column {
+	float: right;
+}
