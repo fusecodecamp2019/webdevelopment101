@@ -27,3 +27,14 @@ html {
 	display: flex;
 	justify-content: space-evenly;
 }
+
+#nav a {
+	text-decoration: none;
+	font-size: 30px;
+	color: black;
+}
+
+#nav a:hover {
+	text-decoration: underline;
+	color: red;
+}
